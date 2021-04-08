@@ -1,0 +1,11 @@
+{
+    "idleHeartbeats": 169,
+    "navigatingHeartbeats": 7,
+    "totalCodingHeartbeats": 1777,
+    "languageHeartbeats": {
+        "php": 1777
+    },
+    "fileHeartbeats": {
+        "index.php": 1777
+    }
+}
